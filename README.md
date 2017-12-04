@@ -1,5 +1,6 @@
 Hello World!
-=========
+============
+[![Build Status](https://travis-ci.org/Vrondir/hello-world.svg?branch=master)](https://travis-ci.org/Vrondir/hello-world)
 
 A simple npm module that uses Node.js to print "Hello World!" in the console.
 
