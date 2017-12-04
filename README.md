@@ -10,7 +10,7 @@ A simple npm module that uses Node.js to print "Hello World!" in the console.
 ## Usage
 
 ```js
-helloWorld = require('@Vrondir/hello-world')
+helloWorld = require('@vrondir/hello-world')
 
 ...
 
