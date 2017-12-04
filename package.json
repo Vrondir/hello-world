@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "@Vrondir/hello-world",
   "version": "0.1.0",
   "description": "A simple npm module, which uses Node.js to print \"Hello World!\" in the console.",
   "main": "index.js",
