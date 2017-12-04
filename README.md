@@ -6,7 +6,7 @@ A simple npm module that uses Node.js to print "Hello World!" in the console.
 
 ## Installation
 
-`npm install @Vrondir/hello-world`
+`npm install @vrondir/hello-world`
 
 ## Usage
 
